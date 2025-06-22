@@ -1,3 +1,47 @@
+# Instructions
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/lwu1822/twentyFour.git
+```
+
+2. Install Node.js 
+
+On Mac:
+
+```bash
+brew update
+brew install node
+```
+
+Then, check to see if Node is installed correctly. Ensure that these two commands have output:
+
+```bash
+node -v
+```
+
+```bash
+npm -v
+```
+
+3. Install the packages
+
+Run:
+
+```bash
+npm install
+```
+
+4. Start the app locally
+
+Run:
+
+```bash
+npm run dev
+```
+
+
 # Welcome to React Router!
 
 A modern, production-ready template for building full-stack React applications using React Router.
